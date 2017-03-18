@@ -1,0 +1,9 @@
+{
+ "Produccion" : "SI",
+ "pro":{
+    	"server" : "10.0.0.125" , "port" : "1521","user" : "A11012016" , "pass": "TEST" , "schema" : "A11012016" , "sid" : "PRUEBA"
+    },
+ "dev":{
+    	"server" : "10.0.0.125" , "port" : "1521","user" : "A11012016" , "pass": "TEST" , "schema" : "A11012016", "sid" : "PRUEBA"
+    }
+}
